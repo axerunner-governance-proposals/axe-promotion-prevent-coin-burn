@@ -1,6 +1,6 @@
-# holiday promotion for axe
+# Holiday Promotion For Axe
 
-as i see the event of a next super block approaching,27/10/2019 so in 12 days 
+As i see the event of a next super block approaching,27/10/2019 so in 12 days 
 seems logical to claim it and use it for the better of axe
 
 
