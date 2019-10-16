@@ -1,7 +1,9 @@
 PROPOSAL   	
 
 Title:      Holiday Promotion For Axe
+
 Owner:      DAVETOSHI
+
 Amount:     6000 AXE 
 
 PROPOSAL DESCRIPTION:
