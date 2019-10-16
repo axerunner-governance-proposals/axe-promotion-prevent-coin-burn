@@ -15,11 +15,17 @@ As we have not seen any applications for this block, I would like to use it the 
 The aim is to raise awareness and give a little something back to the community
 
 By a combination of 
+
 Give aways
+
 Airdrops
-Competitions 
+
+Competitions
+
 Masternode give away
+
 Mining competitions
+
 
 Our intention is to distribute the Axe through the community,
 increase engagement with axe, promote some learning about axe.
