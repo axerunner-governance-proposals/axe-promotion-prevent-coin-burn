@@ -9,9 +9,10 @@ so i am asking for your votes to produce the first superblock
 Holiday season is almost upon us.
 so lets give a little axe in the run up to the holiday season.
 
-i ask for your votes to use the superblock for a bit of a holiday promotion
 
-these will include 
+
+
+#these will include 
 air drops
 win a masternode
 mining competition
@@ -21,7 +22,7 @@ so give your vote here and lets enjoy the holiday season
 
 You can submit 3 different votes:  (note this will use all your nodes to vote, you can do it individually also)
 
-YES Vote - "gobject vote-many 3066f681fb2bdf7256bcccf801ad1e50bf5830a1d247b03580bc1032088dad9e funding yes"
+#YES Vote - "gobject vote-many 3066f681fb2bdf7256bcccf801ad1e50bf5830a1d247b03580bc1032088dad9e funding yes"
 
 NO Vote - "gobject vote-many 3066f681fb2bdf7256bcccf801ad1e50bf5830a1d247b03580bc1032088dad9e funding no"
 
